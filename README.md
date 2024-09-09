@@ -16,7 +16,7 @@ The project is designed for frontend page development, showcasing various design
 4. Start the development server: `npm start`.
 5. Open your browser and visit `http://localhost:3000` to view the app.
 
-## Preview:
+## Preview
 ![image](https://github.com/user-attachments/assets/7e7edd26-0235-4c8b-9207-c88016756adf)
 
 These steps assume you have Node.js and npm installed on your system. Make sure to check the repository's README or other documentation files for any additional setup requirements or environment specifics.
