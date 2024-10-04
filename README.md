@@ -1,4 +1,4 @@
-### Short Description - Frontend Hiring assignment
+### Short Description - Frontend assignment
 The project is designed for frontend page development, showcasing various design implementations.
 
 ### Technologies Used
